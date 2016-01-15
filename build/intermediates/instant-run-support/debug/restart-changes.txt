@@ -1,0 +1,5 @@
+/Users/licheng/AndroidStudioProjects/GestureLock/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/licheng/github/gesturelock/GestureLockView.class
+/Users/licheng/AndroidStudioProjects/GestureLock/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/licheng/github/gesturelock/GestureLockActivity$3.class
+/Users/licheng/AndroidStudioProjects/GestureLock/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/licheng/github/gesturelock/GestureLockActivity$1.class
+/Users/licheng/AndroidStudioProjects/GestureLock/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/licheng/github/gesturelock/GestureLockActivity.class
+/Users/licheng/AndroidStudioProjects/GestureLock/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/licheng/github/gesturelock/GestureLockActivity$2.class
